@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Data Science Projects Portfolio
 
 This portfolio is a compilation of data science projects that I developed during my studies to explore machine learning algorithms and certain data analysis.
 
