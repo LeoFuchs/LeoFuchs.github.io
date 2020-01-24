@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of data science projects that I developed during my studies to explore machine learning algorithms and certain data analysis.
 
-# Classification Problems
+### Classification Problems
 
 You can use the [editor on GitHub](https://github.com/LeoFuchs/LeoFuchs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
