@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Another Doc](/LeoFuchs.github.io/projects/Predicting Credit Card Approvals/notebook.ipynb)
+[Another Doc](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
