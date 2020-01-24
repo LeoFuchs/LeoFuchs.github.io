@@ -4,13 +4,15 @@ This portfolio is a compilation of data science projects that I developed during
 
 ### Classification Problems
 
-You can use the [editor on GitHub](https://github.com/LeoFuchs/LeoFuchs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### [Predicting Credit Card Approvals](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 ### Markdown
 
-[Another Doc](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+
+
+You can use the [editor on GitHub](https://github.com/LeoFuchs/LeoFuchs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
