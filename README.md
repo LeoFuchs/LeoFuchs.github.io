@@ -4,7 +4,7 @@ This portfolio is a compilation of data science projects that I developed during
 
 ## Classification Problems
 
-### [Predicting Credit Card Approvals:](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+### 1. [Predicting Credit Card Approvals:](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 We'll use the [Credit Card Approval Dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) from the UCI Machine Learning Repository. The structure of this notebook, based in a project from [DataCamp](https://www.datacamp.com/projects/558), is as follows:
 
