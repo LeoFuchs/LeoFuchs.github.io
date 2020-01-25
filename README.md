@@ -41,4 +41,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 If you want to get in touch to comment on the portfolio, job opportunities or collaboration, use any of the following means:
 
 - Email: fuchs_leo@hotmail.com
-- Linkedin: https://www.linkedin.com/in/leonardo-fuchs/
+- Linkedin: [https://www.linkedin.com/in/leonardo-fuchs/](https://www.linkedin.com/in/leonardo-fuchs/)
