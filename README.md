@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of data science projects that I developed during my studies to explore machine learning algorithms and certain data analysis.
 
-## Classification Problems
+## **Classification Problems**
 
 ### 1. [Predicting Credit Card Approvals:](https://github.com/LeoFuchs/LeoFuchs.github.io/blob/master/projects/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
