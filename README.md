@@ -12,7 +12,7 @@ We'll use the [Credit Card Approval Dataset](http://archive.ics.uci.edu/ml/datas
 - We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries;
 - We will have to preprocess the dataset to ensure the machine learning model we choose can make good predictions.
 - After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
-- Finally, we will build some machine learning models that can predict if an individual application for a credit card will be accepted.
+- Finally, we will build some machine learning models that can predict if an individual application for a credit card will be accepted or no.
 
 ### Markdown
 
