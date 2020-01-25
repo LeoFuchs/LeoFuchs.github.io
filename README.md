@@ -38,4 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](mailto:username@domainname) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to get in touch to comment on the portfolio, job opportunities or collaboration, use any of the following means:
+
+- Email: fuchs_leo@hotmail.com
+- Linkedin: https://www.linkedin.com/in/leonardo-fuchs/
