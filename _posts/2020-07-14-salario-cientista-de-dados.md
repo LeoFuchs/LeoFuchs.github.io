@@ -10,12 +10,7 @@ mathjax: "true"
 
 A pergunta que ficou famosa na comunidade dos cientistas de dados finalmente poderá ser respondida. Afinal, __um cientista de dados no Brasil ganha R$ 22 mil por mês?__
 
-Para responder esta pergunta, seguiremos a seguinte ordem:
-
-- [1. Importação do Dataset e das Bibliotecas](#import)
-- [2. Análise e Manipulação do Dataset](#analysis)
-- [3. Visualização dos Dados](#visualization)
-
+Para responder esta pergunta, seguiremos os seguintes passos:
 
 # 1. Importação do Dataset e das Bibliotecas
 
