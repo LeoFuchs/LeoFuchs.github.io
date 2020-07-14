@@ -18,5 +18,5 @@ We'll use the [Credit Card Approval Dataset](http://archive.ics.uci.edu/ml/datas
 
 If you want to get in touch to comment on the portfolio, job opportunities or collaboration, use any of the following means:
 
-- Email: fuchs_leo@hotmail.com
+- Email: leo.fuchs.alves@gmail.com
 - Linkedin: [https://www.linkedin.com/in/leonardo-fuchs/](https://www.linkedin.com/in/leonardo-fuchs/)
