@@ -17,7 +17,7 @@ Para responder esta pergunta, seguiremos a seguinte ordem:
 - [3. Visualização dos Dados](#visualization)
 
 
-## 1. Importação do Dataset e das Bibliotecas
+# 1. Importação do Dataset e das Bibliotecas
 
 O Dataset utilizado foi retirado do _Data Hackers Survey 2019_ uma pesquisa de mercado realizada por uma das maiores comunidades de Data Science do Brasil, conhecida como [Data Hackers](https://datahackers.com.br/). 
 
@@ -36,7 +36,7 @@ pd.options.display.max_columns = None
 
 A biblioteca `pandas` foi utilizada para a manipulação dos dados através de dataframes, enquanto `seaborn` e `matplotlib` auxiliam na visualização dos dados em gráficos. 
 
-## 2. Análise e Manipulação do Dataset
+# 2. Análise e Manipulação do Dataset
 
 Após realizada uma análise primária sobre o dataset, algumas manipulações no mesmo foram considerdas necessárias. Algumas dados do dataset foram removidos, uma vez que que não se adequam a análise dos salários de cientistas de dados. São eles:
 
@@ -70,7 +70,7 @@ data = data[data["('P3', 'living_in_brasil')"] == 1]
 
 Com isso, o dataset acabou sendo reduzido para 552 linhas e permaneceu com 170 colunas. Por fim, criamos uma nova coluna no dataframe com o nome `salary`, apenas para facilitar a manipulação.
 
-## 3. Visualização de Dados
+# 3. Visualização de Dados
 
 Para a visualização dos dados, resolvemos tentar transmitir toda a informação necessária em apenas um gráfico. Com isso, a complexidade do gráfico em si aumentou, pois tentamos criar uma manipulação onde se é possível analisar o eixo y a partir do número de entrevistados ou de sua respectiva frequência (%).
 
@@ -142,19 +142,13 @@ ax2.grid(None)
 
 Este código gera então o seguinte gráfico:
 
-IMAGEM DO GRÁFICO
-
 ![alt]({{ site.url }}{{ site.baseurl }}/images/salary/result.png)
 
 Caso considere necessário, o código completo está disponível em um [notebook](https://www.kaggle.com/leofuchs/cientistas-de-dados-ganham-r-22-mil) no Kaggle.
 
 Com este gráfico, podemos então tirar algumas conclusões a respeito do salário do cientista de dados no Brasil:
 
-    Fica claro que a realidade salarial dos cientistas de dados no Brasil não está nem próxima de 22 mil reais, girando dentro da casa dos 3 à 12 mil reais por mês (~78% dos entrevistados ganham dentro desta faixa salarial).
+1. Fica claro que a realidade salarial dos cientistas de dados no Brasil não está nem próxima de 22 mil reais, girando dentro da casa dos 3 à 12 mil reais por mês (~78% dos entrevistados ganham dentro desta faixa salarial).
 
 
-    Apenas 1.1% dos entrevistados recebem algo próximo à 22 mil reais, enquanto apenas 0.4% recebem mais do que 25 mil reais, enfatizando o quanto o salário médio de um cientista de dados não está nem perto do divulgado.
-
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+2. Apenas 1.1% dos entrevistados recebem algo próximo à 22 mil reais, enquanto apenas 0.4% recebem mais do que 25 mil reais, enfatizando o quanto o salário médio de um cientista de dados não está nem perto do divulgado.
