@@ -4,7 +4,7 @@ date: 2020-07-14
 tags: [data science, data visualization, python]
 header:
   image: "/images/salary/manchete.png"
-excerpt: "A pergunta que virou meme na comunidade dos cientistas de dados finalmente poderá ser respondida. Afinal, um cientista de dados no Brasil ganha R$ 22mil por mês?"
+excerpt: "A pergunta que virou meme finalmente poderá ser respondida. Afinal, um cientista de dados no Brasil ganha R$ 22mil por mês?"
 mathjax: "true"
 ---
 
