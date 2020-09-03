@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /posts/
-title: "Posts"
+permalink: /postagens/
+title: "Postagens"
 author_profile: true
 ---
 

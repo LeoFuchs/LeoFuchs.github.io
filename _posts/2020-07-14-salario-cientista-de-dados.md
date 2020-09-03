@@ -8,6 +8,8 @@ excerpt: "A pergunta que virou meme na comunidade dos cientistas de dados finalm
 mathjax: "true"
 ---
 
+<div style="text-align: justify">
+
 A pergunta que ficou famosa na comunidade dos cientistas de dados finalmente poderá ser respondida. Afinal, __um cientista de dados no Brasil ganha R$ 22 mil por mês?__
 
 Para responder esta pergunta, seguiremos os seguintes passos:
@@ -147,3 +149,5 @@ Com este gráfico, podemos então tirar algumas conclusões a respeito do salár
 
 
 2. Apenas 1.1% dos entrevistados recebem algo próximo à 22 mil reais, enquanto apenas 0.4% recebem mais do que 25 mil reais, enfatizando o quanto o salário médio de um cientista de dados não está nem perto do divulgado.
+
+</div>

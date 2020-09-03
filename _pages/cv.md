@@ -1,6 +1,6 @@
 ---
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Currículo"
+permalink: /curriculo/
 ---
 
 Leonardo Fuchs Alves
