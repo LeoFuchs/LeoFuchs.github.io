@@ -23,8 +23,9 @@ Neste passo, você deve então específicar a arquitetura da rede neural, respon
 Respondendo estas perguntas, você consegue começar a imaginar o formato da sua rede neural, como seria a sua disposição ideal. A Figura 1 representa um exemplo de arquitetura, onde a rede possui duas camadas ocultas, uma camada de entrada e uma de saída. Além disso, são definidos quatro nós para as camadas ocultas, três para a camada de entrada e apenas um para a camada de saída.
 
 <center>
-<img src="https://cdn-images-1.medium.com/max/1000/1*livHOtvW8PSptrSb7OXpyA.jpeg" style="width:75%">
+<img src="https://cdn-images-1.medium.com/max/1000/1*livHOtvW8PSptrSb7OXpyA.jpeg" style="width:75%"></center>
 
+<center>
 <b>Figura 1.</b> Exemplo de Rede Neural que será utilizada como exemplo. 
 </center>
 
