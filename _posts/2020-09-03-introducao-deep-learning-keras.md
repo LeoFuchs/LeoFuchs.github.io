@@ -8,9 +8,11 @@ excerpt: "Compreendendo o processo de se utilizar redes neurais para solucionar 
 mathjax: "true"
 ---
 
+<div style="text-align: justify">
+
 Sempre acompanhei palestras ou aulas que buscavam explicar algum trabalho relacionado à Deep Learning com um olhar admirado, mas ao mesmo tempo sem entender muita coisa. Aproveitando que o DataCamp disponibilizou uma semana gratuita para todos os seus cursos, resolvi finalmente me desafiar e aprender mais a respeito. Seguindo a track [Deep Learning in Python](https://learn.datacamp.com/skill-tracks/deep-learning-in-python?version=1), comecei então pelo curso ["Introduction to Deep Learning in Python"](https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python). Confesso que me surpreendi com a fluidez do material e tento então através desta publicação transmitir um pouco do que estou aprendendo.
 
-Nesta publicação tentarei então compartilhar uma ideia de **como construir modelos de Deep Learning com Keras**. Keras é uma biblioteca de rede neural de código aberto escrita em Pytho, que iremos utilizar. O modelo de Deep Learning pode então ser dividido em quatro passos:
+Tentarei então compartilhar uma introdução à **como construir modelos de Deep Learning com Keras**. Keras é uma biblioteca de rede neural de código aberto escrita em Python, que irei utilizar. O modelo de Deep Learning pode então ser dividido em quatro passos:
 
 ### 1. Especificação da Arquitetura
 
@@ -107,3 +109,5 @@ _____________________________
 ### Conclusão 
 
 E é isso! Com estas pouquissímas linhas de código você apreendeu a criar uma rede neural que consegue estimar uma predição na saída, conforme os dados de entrada. Claro que esta rede é extremamente pequena, mas a ideia aqui era apenas fornecer de maneira simples o que muitas vezes é desesperador ao se ouvir falar pela primeira vez.
+
+</div>
