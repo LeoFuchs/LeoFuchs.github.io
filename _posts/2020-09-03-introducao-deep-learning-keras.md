@@ -1,5 +1,5 @@
 ---
-title: "Introdução à Deep Learning usando Keras"
+title: "Introdução a Deep Learning usando Keras"
 date: 2020-09-03
 tags: [deep learning, python, keras]
 #header:
