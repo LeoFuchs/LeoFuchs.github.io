@@ -26,7 +26,7 @@ Respondendo estas perguntas, você consegue começar a imaginar o formato da sua
 <img src="https://cdn-images-1.medium.com/max/1000/1*livHOtvW8PSptrSb7OXpyA.jpeg" style="width:75%"></center>
 
 <center>
-<b>Figura 1.</b> Exemplo de Rede Neural que será utilizada como exemplo. 
+<b>Figura 1.</b> Rede Neural que será utilizada como exemplo. 
 </center><br>
 
 Para especificar o modelo da Figura 1 utilizando Keras, você pode utilizar o seguinte código:
