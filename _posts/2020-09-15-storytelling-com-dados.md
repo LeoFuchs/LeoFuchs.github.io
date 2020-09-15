@@ -8,12 +8,6 @@ excerpt: "Anotações referentes a leitura do livro "Storytelling com Dados" de 
 mathjax: "true"
 ---
 
-    Livro: Storytelling com Dados
-    Autor(a): Cole Nussbaumer Knaflic
-    Nota: 9/10 (Recomendo)
-
-[Link para Compra](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
-
 # Resenha
 
 Livro extremamente bem escrito, com diversos exemplos reais de como utilizar os dados ao seu favor e de como transformar os dados em uma história atrativa e interessante. Leitura simples, sem muitos termos técnicos e muito direta, sem referências desnecessárias ou conceitos vagos. Excelente.
@@ -199,6 +193,14 @@ _Acessibilidade_: O conceito de acessibilidade diz que os designs devem ser úte
 _Estética_: Na comunicação com dados, é extremamente necessário que os dados “estejam bonitos”. As pessoas percebem os designs estéticos como mais fáceis de usar do que os menos estéticos. Estudos apontam que designs mais estéticos também são mais prontamente aceitos e utilizados, promovem o pensamento criativo e a solução de problemas, e estimulam relações positivas, tornando as pessoas mais tolerantes a problemas. 
 
 Algumas coisas a se considerar no que diz respeito a design estético são: (1) Use cores de maneira inteligente, (2) Preste atenção nos alinhamentos (tente ao máximo criar linhas verticais e horizontais limpas, aumentando o senso de unidade e coesão); e (3) Use espaço em branco (preserve sempre as margens).
+
+# Avaliação Final
+
+    Livro: Storytelling com Dados
+    Autor(a): Cole Nussbaumer Knaflic
+    Nota: 9/10 (Recomendo)
+
+[Link para Compra](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
 
 ### Referências
 
