@@ -56,7 +56,7 @@ _Jan 2015 - Jun 2017_
 - 2020 - **IBM**, Big Data Fundations - Level 2
 - 2020 - **Udemy**, The Complete SQL Bootcamp
 
-## Habilidade e Outras Informações
+## Habilidades e Outras Informações
 
 ### Técnicas
 Python, SQL, Análise de Dados, Estatística, Mineração de Texto, Feature Engineering, Machine Learning, DeepLearning, Git, PowerPoint e Linux.
