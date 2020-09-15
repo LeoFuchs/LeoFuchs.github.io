@@ -87,7 +87,7 @@ author:
   name             : "Leonardo Fuchs"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist Junior"
-  location         : "Campo Grande, MS"
+  location         :
   email            : "leo.fuchs.alves@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
