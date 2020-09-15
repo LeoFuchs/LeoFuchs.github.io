@@ -1,10 +1,10 @@
 ---
-title: "Resumo da Leitura: Storytelling com Dados"
-date: 2020-09-15
+title: "Resumo de Leitura: Storytelling com Dados"
+date: 2020-09-10
 tags: [storytelling, visualização de dados, negócios]
 #header:
 #  image: "/images/salary/manchete.png"
-excerpt: "Anotações referentes a leitura do livro "Storytelling com Dados" de Cole Nussbaumer Knaflic."
+excerpt: "Anotações referentes a leitura do livro Storytelling com Dados de Cole Nussbaumer Knaflic."
 mathjax: "true"
 ---
 
