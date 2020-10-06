@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Leonardo Fuchs"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist Junior"
+  bio              : "Data Scientist"
   location         :
   email            : "leo.fuchs.alves@gmail.com"
   uri              :

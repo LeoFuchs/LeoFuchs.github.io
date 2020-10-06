@@ -34,8 +34,8 @@ _Jan 2012 - Jul 2017_
 
 _Mar 2018 - Ago 2020_
 
-- Trabalhou com Mineração de Texto no Laboratório de Inteligência Artificial (LIA), buscando automatizar partes do processo de formulação de Estudos Secundários.
-- Utilização de representações em bag-of-words e embeddings para obtenção automática de termos a partir de documentos, métricas de filtragem e ordenação de termos como TF e DF, algoritmos de extração de tópicos a partir de representações (LDA) e modelos de linguagem mascarada para enriquecimento de termos (BERT). Codificação desenvolvida em Python e Django.
+- Atuou em projeto de pesquisa na área de Inteligência Artificial, utilizando técnicas de Text Mining para automatizar a formulação de strings de busca no processo de desenvolvimento de Estudos Secundários.
+- Uso de representações em bag-of-words e embeddings para obter automaticamente termos de documentos. Filtragem de termos em documentos usando métricas como TF e DF. Implementação de algoritmos de extração de tópicos de certas representações (LDA) e modelagem pré-treinada de linguagem mascarada para enriquecimento de termos (BERT).
 
 ### EngeFour Jr. - Campo Grande, MS
 
@@ -45,7 +45,7 @@ _Jan 2015 - Jun 2017_
 
 - Gerenciou a área de Tecnologia da Informação, recrutando e treinando novos colaboradores.
 - Participou ativamente da parte de Gerência de Projetos, incluindo implementação de Scrum, Kanban e MR-MPS Nível G em nível experimental.
-- Desenvolveu e coordenou diversos sites e aplicativos Android.
+- Desenvolveu e coordenou o desenvolvimento de diversos sites e aplicativos Android.
 
 ## Formação Complementar	
 
