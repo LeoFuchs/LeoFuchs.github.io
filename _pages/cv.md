@@ -49,12 +49,13 @@ _Jan 2015 - Jun 2017_
 
 ## Formação Complementar	
 
-- 2019 - **Coursera**, Machine Learning (Andrew Y. Ng)
+- 2020 - **Amazon Web Services (AWS)**, AWS Fundamentals: Going Cloud-Native
 - 2020 - **DataCamp**, Data Scientist with Python Track [22 Cursos]
 - 2020 - **DataCamp**, Deep Learning in Python Track [5 Cursos]
 - 2020 - **Codenation (Trybe)**, AceleraDev Data Science
 - 2020 - **IBM**, Big Data Fundations - Level 2
 - 2020 - **Udemy**, The Complete SQL Bootcamp
+- 2019 - **Coursera**, Machine Learning (Andrew Y. Ng)
 
 ## Habilidades e Outras Informações
 
