@@ -42,6 +42,41 @@ _"Os seus rendimentos crescem na mesma medida em que você cresce."_
 
 ## **Parte 2: Os Arquivos de Riqueza**
 
+Arquivos de Riqueza:
+
+1°: As pessoas ricas acreditam na seguinte idéia: "Eu crio a minha própria vida." As pessoas de mentalidade pobre acreditam na seguinte idéia: "Na minha vida, as coisas acontecem."
+
+2°: As pessoas ricas entram no jogo do dinheiro para ganhar. As pessoas de mentalidade pobre entram no jogo do dinheiro para não perder.
+
+3°: As pessoas ricas assumem o compromisso de serem ricas. As pessoas de mentalidade pobre gostariam de ser ricas.
+
+4°: As pessoas ricas pensam grande. As pessoas de mentalidade pobre pensam pequeno. 
+
+5°: As pessoas ricas focalizam oportunidades. As pessoas de mentalidade pobre focalizam obstáculos.
+
+6°: As pessoas ricas admiram outros indivíduos ricos e bem ­sucedidos. As pessoas de mentalidade pobre guardam ressentimento de quem é rico e bem­ sucedido.
+
+7°: As pessoas ricas buscam a companhia de indivíduos positivos e bem ­sucedidos. As pessoas de mentalidade pobre buscam a companhia de indivíduos negativos e fracassados.
+
+8°: As pessoas ricas gostam de se promover. As pessoas de mentalidade pobre não apreciam vendas nem autopromoção.
+
+9°: As pessoas ricas são maiores do que os seus problemas. As pessoas de mentalidade pobre são menores do que os seus problemas.
+
+10°: As pessoas ricas são excelentes recebedoras. As pessoas de mentalidade pobre são péssimas recebedoras. 
+
+11°: As pessoas ricas preferem ser remuneradas por seus resultados. As pessoas de mentalidade pobre preferem ser remuneradas pelo tempo que despendem.
+
+12°: As pessoas ricas pensam: "Posso ter as duas coisas." As pessoas de mentalidade pobre pensam: "Posso ter uma coisa ou outra."
+
+13°: As pessoas ricas focalizam o seu patrimônio líquido. As pessoas de mentalidade pobre focalizam o seu rendimento mensal.
+
+14°: As pessoas ricas administram bem o seu dinheiro. As pessoas de mentalidade pobre administram mal o seu dinheiro. 
+
+15°: As pessoas ricas põem o seu dinheiro para dar duro para elas. As pessoas de mentalidade pobre dão duro pelo seu dinheiro. 
+
+16°: As pessoas ricas agem apesar do medo. As pessoas de mentalidade pobre deixam­ se paralisar pelo medo.
+
+17°: As pessoas ricas aprendem e se aprimoram o tempo todo. As pessoas de mentalidade pobre acreditam que já sabem tudo.
 
 # Avaliação Final
 
