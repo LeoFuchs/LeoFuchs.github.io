@@ -1,6 +1,6 @@
 ---
 title: "Resumo da Leitura: O Monge e o Executivo: Uma História Sobre a Essência da Liderança"
-date: 2021-03-21
+date: 2023-09-30
 tags: [gestão de pessoas, liderança, relações humanas, gestão empresarial]
 #header:
 #  image: "/images/salary/manchete.png"
